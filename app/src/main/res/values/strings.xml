@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMusicCompose</string>
+    <string name="menu_home">home</string>
+    <string name="menu_about">about</string>
+    <string name="search_hero">Search Title</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="menu_detail">detail</string>
+    <string name="back">Back</string>
+    <string name="myName">Wayan Berdyanto</string>
+    <string name="myEmail">aber.panak.atok@gmail.com</string>
+    <string name="myUniversity">Duta Wacana Christian University</string>
+    <string name="description">"Deskripsi : "</string>
+</resources>
